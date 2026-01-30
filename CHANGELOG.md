@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2026-01-30)
 
 <section class="commits">
 
@@ -12,9 +12,10 @@
 
 <details>
 
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`bab1647`](https://github.com/stdlib-js/stdlib/commit/bab1647c1309043335a7ec9badb8f3e629bf9136) - **style:** add missing space _(by Athan Reines)_
--   [`ce62b14`](https://github.com/stdlib-js/stdlib/commit/ce62b1490d4948a707f496b66ad03bb296a2468a) - **docs:** replace manual `for` loop in examples [(#7055)](https://github.com/stdlib-js/stdlib/pull/7055) _(by Harsh)_
--   [`367fdcd`](https://github.com/stdlib-js/stdlib/commit/367fdcd966fd9b6c883997b6f0deebbe84a63cbd) - **bench:** update random value generation [(#7026)](https://github.com/stdlib-js/stdlib/pull/7026) _(by Harsh)_
+-   [`ce62b14`](https://github.com/stdlib-js/stdlib/commit/ce62b1490d4948a707f496b66ad03bb296a2468a) - **docs:** replace manual `for` loop in examples [(#7055)](https://github.com/stdlib-js/stdlib/pull/7055) _(by Harsh Yadav)_
+-   [`367fdcd`](https://github.com/stdlib-js/stdlib/commit/367fdcd966fd9b6c883997b6f0deebbe84a63cbd) - **bench:** update random value generation [(#7026)](https://github.com/stdlib-js/stdlib/pull/7026) _(by Harsh Yadav)_
 -   [`02b9077`](https://github.com/stdlib-js/stdlib/commit/02b907765ad6a6ebcc884f16f2128475ab866814) - **bench:** refactor random number generation in `stats/base/dists/chisquare` [(#4860)](https://github.com/stdlib-js/stdlib/pull/4860) _(by Karan Anand)_
 
 </details>
@@ -27,11 +28,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
