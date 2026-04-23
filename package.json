@@ -77,9 +77,11 @@
     "location",
     "percentile",
     "center",
+    "chisq",
     "chisquare",
-    "chi-square",
     "chisquared",
+    "chi-square",
+    "chi-squared",
     "univariate",
     "continuous"
   ],
