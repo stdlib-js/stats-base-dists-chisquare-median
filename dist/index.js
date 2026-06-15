@@ -1,5 +1,5 @@
-"use strict";var u=function(r,e){return function(){return e||r((e={exports:{}}).exports,e),e.exports}};var i=u(function(o,t){
-var n=require('@stdlib/stats-base-dists-chisquare-quantile/dist');function s(r){return n(.5,r)}t.exports=s
-});var a=i();module.exports=a;
+"use strict";var n=function(r,e){return function(){try{return e||r((e={exports:{}}).exports,e),e.exports}catch(u){throw (e=0, u)}};};var i=n(function(q,t){
+var s=require('@stdlib/stats-base-dists-chisquare-quantile/dist');function a(r){return s(.5,r)}t.exports=a
+});var c=i();module.exports=c;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
