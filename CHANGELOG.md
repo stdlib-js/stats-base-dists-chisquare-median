@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-08-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`209e1e0`](https://github.com/stdlib-js/stdlib/commit/209e1e0b79b78a936f4e3dc541b05235674e271f) - **test:** migrate `stats/base/dists/chisquare/median` to ULP-based assertions [(#14545)](https://github.com/stdlib-js/stdlib/pull/14545) _(by Athan Reines)_
 -   [`cbe79e4`](https://github.com/stdlib-js/stdlib/commit/cbe79e479b16b66d34f8e7b0e513797bb00e06ed) - **refactor:** rename internal variables [(#12894)](https://github.com/stdlib-js/stdlib/pull/12894) _(by Philipp Burckhardt)_
 -   [`fdcf93d`](https://github.com/stdlib-js/stdlib/commit/fdcf93d000432eedb131d8c0a03fbb269e91e66e) - **docs:** update example variables and document domain [(#12301)](https://github.com/stdlib-js/stdlib/pull/12301) _(by Philipp Burckhardt)_
 -   [`c660c8e`](https://github.com/stdlib-js/stdlib/commit/c660c8e75f15ee3a716d6b69faf35f710a4ae4d6) - **chore:** fix example positioning and align keywords in `stats/base/dists/chisquare` packages [(#11746)](https://github.com/stdlib-js/stdlib/pull/11746) _(by Philipp Burckhardt)_
@@ -27,8 +28,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
